@@ -11,7 +11,7 @@
 
 stage "default" do
   default_scene "main"
-  title "Limelight"
+  title "Simon"
   location [200, 25]
-  size [800, 800]
+  size :auto, :auto
 end
